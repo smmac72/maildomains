@@ -1,0 +1,359 @@
+// australia
+
+// mail.ru
+mail.ru
+internet.ru
+bk.ru
+inbox.ru
+list.ru
+// vk
+vk.com
+// gmail
+gmail.com
+// yandex
+yandex.ru
+yandex.com
+yandex.mail
+yandex.pl
+yandex.ua
+ya.ru
+// rambler
+rambler.ru
+lenta.ru
+myrambler.ru
+autorambler.ru
+ro.ru
+rambler.ua
+// ukr.net
+ukr.net
+// hotmail / outlook
+outlook.at
+outlook.be
+outlook.cl
+outlook.co.id
+outlook.co.il
+outlook.co.nz
+outlook.co.th
+outlook.com
+outlook.com.au
+outlook.com.br
+outlook.com.gr
+outlook.com.pe
+outlook.com.tr
+outlook.com.vn
+outlook.cz
+outlook.de
+outlook.dk
+outlook.es
+outlook.fr
+outlook.hu
+outlook.ie
+outlook.in
+outlook.it
+outlook.jp
+outlook.kr
+outlook.lv
+outlook.my
+outlook.nl
+outlook.ph
+outlook.pt
+outlook.sa
+outlook.sg
+outlook.sk
+hotmail.be
+hotmail.ca
+hotmail.ch
+hotmail.co
+hotmail.co.il
+hotmail.co.jp
+hotmail.co.nz
+hotmail.co.uk
+hotmail.co.za
+hotmail.com
+hotmail.com.ar
+hotmail.com.au
+hotmail.com.br
+hotmail.com.mx
+hotmail.com.tr
+hotmail.de
+hotmail.es
+hotmail.fi
+hotmail.fr
+hotmail.it
+hotmail.kg
+hotmail.kz
+hotmail.my
+hotmail.nl
+hotmail.ro
+hotmail.roor
+hotmail.ru
+// proton
+proton.me
+protonmail.com
+pm.me
+// fastmail
+fastmail.com
+fastmail.cn
+fastmail.co.uk
+fastmail.com.au
+fastmail.de
+fastmail.es
+fastmail.fm
+fastmail.fr
+fastmail.im
+fastmail.in
+fastmail.jp
+fastmail.mx
+fastmail.net
+fastmail.nl
+fastmail.org
+fastmail.se
+fastmail.to
+fastmail.tw
+fastmail.uk
+fastmail.us
+123mail.org
+airpost.net
+eml.cc
+fmail.co.uk
+fmgirl.com
+fmguy.com
+mailbolt.com
+mailcan.com
+mailhaven.com
+mailmight.com
+ml1.net
+mm.st
+myfastmail.com
+proinbox.com
+promessage.com
+rushpost.com
+sent.as
+sent.at
+sent.com
+speedymail.org
+warpmail.net
+xsmail.com
+150mail.com
+150ml.com
+16mail.com
+2-mail.com
+4email.net
+50mail.com
+allmail.net
+bestmail.com
+cluemail.com
+elitemail.org
+emailcorner.net
+emailengine.net
+emailengine.org
+emailgroups.net
+emailplus.org
+emailuser.net
+f-m.fm
+fast-email.com
+fast-mail.org
+fastem.com
+fastemail.us
+fastest.cc
+fastimap.com
+fastmailbox.net
+fastmessaging.com
+fea.st
+fmailbox.com
+ftml.net
+h-mail.us
+hailmail.net
+imap-mail.com
+imap.cc
+imapmail.org
+inoutbox.com
+internet-e-mail.com
+internet-mail.org
+internetemails.net
+internetmailing.net
+jetemail.net
+justemail.net
+letterboxes.org
+mail-central.com
+mail-page.com
+mailas.com
+mailc.net
+mailforce.net
+mailingaddress.org
+mailite.com
+mailnew.com
+mailsent.net
+mailservice.ms
+mailup.net
+mailworks.org
+mymacmail.com
+nospammail.net
+ownmail.net
+petml.com
+postinbox.com
+postpro.net
+realemail.net
+reallyfast.biz
+reallyfast.info
+speedpost.net
+ssl-mail.com
+swift-mail.com
+the-fastest.net
+the-quickest.com
+theinternetemail.com
+veryfast.biz
+veryspeedy.net
+yepmail.net
+your-mail.com
+// yahoo
+yahoo.ae
+yahoo.at
+yahoo.be
+yahoo.ca
+yahoo.ch
+yahoo.cn
+yahoo.co
+yahoo.co.id
+yahoo.co.il
+yahoo.co.in
+yahoo.co.jp
+yahoo.co.kr
+yahoo.co.nz
+yahoo.co.th
+yahoo.co.uk
+yahoo.co.za
+yahoo.com
+yahoo.com.ar
+yahoo.com.au
+yahoo.com.br
+yahoo.com.cn
+yahoo.com.co
+yahoo.com.hk
+yahoo.com.is
+yahoo.com.mx
+yahoo.com.my
+yahoo.com.ph
+yahoo.com.ru
+yahoo.com.sg
+yahoo.com.tr
+yahoo.com.tw
+yahoo.com.vn
+yahoo.cz
+yahoo.de
+yahoo.dk
+yahoo.es
+yahoo.fi
+yahoo.fr
+yahoo.gr
+yahoo.hu
+yahoo.ie
+yahoo.in
+yahoo.it
+yahoo.jp
+yahoo.net
+yahoo.nl
+yahoo.no
+yahoo.pl
+yahoo.pt
+yahoo.ro
+yahoo.ru
+yahoo.se
+yahoofs.com
+yahoomail.com
+// tut.by
+tut.by
+// pochta.ru
+pochta.by
+pochta.ru
+pochta.ws
+// aol
+aol.co.uk
+aol.com
+aol.de
+aol.fr
+aol.it
+aol.jp
+// hey
+hey.com
+// rediffmail
+rediffmail.com
+// mailfence
+mailfence.com
+// doge-mail
+doge-mail.net
+// lycos
+lycos.co.uk
+lycos.com
+lycos.es
+lycos.it
+lycos.ne.jp
+lycos.ru
+lycosemail.com
+lycosmail.com
+// daum
+daum.net
+// nate
+nate.com
+// lavabit
+lavabit.com
+// virgilio.it
+virgilio.it
+// web.de
+web.de
+// freenet
+freenet.de
+freenet.kg
+// t-online
+t-online.de
+// freesurf
+freesurf.fr
+freesurf.nl
+// posteo
+posteo.net
+// soverin
+soverin.net
+// eclipso
+eclipso.eu
+eclipso.de
+eclipso.at
+eclipso.ch
+eclipso.be
+eclipso.es
+eclipso.it
+eclipso.me
+eclipso.nl
+eclipso.email
+// gmx
+gmx.net
+gmx.at
+gmx.ch
+// inbox.eu
+inbox.eu
+// mailbox
+mailbox.org
+// tutanota
+tutanota.com
+// startmail
+startmail.com
+// mailo.com
+mailo.com
+net-c.com
+netcourrier.com
+netc.eu
+netc.fr
+net-c.nl
+netc.it
+net-c.es
+netc.pl
+net-c.ca
+netcmail.com
+francemel.fr
+europamel.net
+africamel.net
+bruseller.com
+emailasso.net
+inmano.com
+lavache.com
+monemail.com
+perso.be
